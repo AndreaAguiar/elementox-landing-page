@@ -1,5 +1,3 @@
-# elementox-landing-page
-
 # Getting Started Elemento X Landing Page
 
 Clone the Project

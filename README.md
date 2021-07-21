@@ -1,11 +1,9 @@
-# Getting Started Elemento X Landing Page
+## Getting Started Elemento X Landing Page
 
 Clone the Project
-
 ### `git clone https://github.com/AndreaAguiar/elementox-landing-page.git`
 
 In the project directory, you can run:
-
 ### `yarn start`
 
 Runs the page in the development mode.\
